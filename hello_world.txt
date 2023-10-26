@@ -1,6 +1,6 @@
 hiii  guys
 
 how can i fix the dark mode bug on my note program.
-when i turn on the drak mod inmy pc, the note program turns like system settings but the lines still has white mode.
+when i turn on the dark mod in my pc, the note program turns like system settings but the lines still has white mode.
 therefore i can't see the line when i write to the line
 
